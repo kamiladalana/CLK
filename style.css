@@ -1,5 +1,5 @@
 :root{
-    --fundo: #DBDBDB;
+    --fundo: #e6e3e3;
 }
 body{ 
     background-color: var(--fundo);
